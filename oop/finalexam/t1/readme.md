@@ -47,8 +47,7 @@ The program implements the following error-handling mechanisms:
    - Errors do not cause the program to crash; instead, they are reported as error messages, and the program continues its execution.
    - This ensures the program remains robust and doesn't stop unexpectedly due to invalid input or index errors.
 
-![img](https://github.com/CSelenetvauri/oopFINAL/oop/finalexam/t1/error.PNG "text")
-
+![img](https://github.com/CSelenetvauri/OOPfinal/blob/main/oop/finalexam/t1/error.PNG "text")
 
 ---
 
